@@ -1,3 +1,9 @@
+Interactive React team chat app with separate channels, emoji support, mentions, and message likes.
+
+https://vercel.com/react-e4a0/react_team_chat
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
