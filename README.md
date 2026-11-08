@@ -2,7 +2,11 @@ Interactive React team chat app with separate channels, emoji support, mentions,
 
 https://vercel.com/react-e4a0/react_team_chat
 
+Project Description:
 
+React Team Chat is a responsive, interactive chat application developed using React.js. It allows users to send and receive messages through a simple chat interface. It includes multiple chat users, unique user identification, emoji support, and @mention functionality. The application provides a smooth and user-friendly chatting experience.
+
+Technologies Used: React.js, JavaScript, HTML5, CSS3, Vercel.
 
 # React + Vite
 
